@@ -1,5 +1,5 @@
 # codefest
-Starting up with a meh website to figure out all this stuff.
+Starting up with a website to figure out all this stuff.
 
 Mein name ist John "Raz" O.
 
